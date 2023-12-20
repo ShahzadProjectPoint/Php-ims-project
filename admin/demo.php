@@ -1,0 +1,28 @@
+<?php include("header.php"); 
+include("../user/connection.php");
+
+?>
+<!--main-container-part-->
+<div id="content">
+    <!--breadcrumbs-->
+    <div id="content-header">
+        <div id="breadcrumb"><a href="index.html"  class="tip-bottom"><i class="icon-home"></i>
+            Demo Page</a></div>
+    </div>
+    <!--End-breadcrumbs-->
+
+    <!--Action boxes-->
+    <div class="container-fluid">
+
+        <div class="row-fluid" style="background-color: white; min-height: 1000px; padding:10px;">
+       sss
+   
+
+        </div>
+
+    </div>
+</div>
+    
+
+<!--end-main-container-part-->
+<?php include("footer.php"); ?>
